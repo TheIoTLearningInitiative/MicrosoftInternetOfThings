@@ -2,6 +2,7 @@
 
 - [Microsoft IoT](https://blogs.microsoft.com/iot/)
 - [What is Internet of Things?](https://www.microsoft.com/en-us/server-cloud/internet-of-things/)
+- [Microsoft Azure IoT Suite](https://www.microsoft.com/en/server-cloud/internet-of-things/azure-iot-suite.aspx)
 - [Demystifying Microsoft's Internet of Things Strategy](http://www.forbes.com/sites/janakirammsv/2015/10/20/demystifying-microsofts-internet-of-things-strategy/#5a1017313bd7)
 
 # Internet of Things
