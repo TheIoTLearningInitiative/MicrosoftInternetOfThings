@@ -1,6 +1,6 @@
 # Introduction
 
-- [](http://www.forbes.com/sites/janakirammsv/2015/10/20/demystifying-microsofts-internet-of-things-strategy/#5a1017313bd7)
+- [Demystifying Microsoft's Internet of Things Strategy](http://www.forbes.com/sites/janakirammsv/2015/10/20/demystifying-microsofts-internet-of-things-strategy/#5a1017313bd7)
 
 # Internet of Things
 
