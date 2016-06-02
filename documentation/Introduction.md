@@ -1,5 +1,7 @@
 # Introduction
 
+- [](http://www.forbes.com/sites/janakirammsv/2015/10/20/demystifying-microsofts-internet-of-things-strategy/#5a1017313bd7)
+
 # Internet of Things
 
 - __IoT Suite__ Capture and analyze untapped data to improve business results
