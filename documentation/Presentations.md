@@ -1,10 +1,9 @@
 # Presentations
 
-## Microsoft Build 2016
+# Microsoft Build 2016
 
 
-
-## Architecting the Internet of Things
+# Architecting the Internet of Things
 
 > This session will give a brief overview of what IoT is from the perspective of an Architect within Consulting Services. We will look at what kinds of projects we are getting involved in, what those projects look like in reality, the kinds of challenges you will face, the network you need to succeed, and the risks involved. This session will move beyond hypotheticals and introduce real world examples that will help you prepare for life as a delivery architect working with IoT. [Architecting the Internet of Things by Microsoft @ TechEd North America](https://www.youtube.com/watch?v=ZMHQu_X0Ijk)
 
@@ -73,3 +72,4 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 
 
 # Microsoft IoT Platform: Architecture Overview
+
