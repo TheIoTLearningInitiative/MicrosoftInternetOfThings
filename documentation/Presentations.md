@@ -131,6 +131,7 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 ### What Do Architects Need to Know
 
 
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
