@@ -170,6 +170,10 @@ Integrates with big data solutions
 
 - Scalable mobile push notification engine
 
+## Presentation and Action: Microsoft PowerBI
+
+Live, single pane of glass dashboard solution for visualizations and KPIs
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
