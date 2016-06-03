@@ -44,10 +44,11 @@ Expectations
 - Large, complex data flows
 - New types of insight
 
-Example! [The Internet of Cows: Azure-powered pedometers get dairies mooovin’](http://arstechnica.com/information-technology/2015/04/the-internet-of-cows-azure-powered-pedometers-get-dairies-mooovin/)
+Example 31% ROI! [The Internet of Cows: Azure-powered pedometers get dairies mooovin’](http://arstechnica.com/information-technology/2015/04/the-internet-of-cows-azure-powered-pedometers-get-dairies-mooovin/)
 
 #### Why is it important?
 
 > Worlwide market for IoT solutions to reach $7.2 trillion in 2010 (IDC). Economic value-add is forecast to be $1.9 trillion across sectors in 2020 (Gartner)
 
 > Leading Industry Examples: Utilities, Insurance, Agriculture, Factory, Automobiles, Transport, Consumer
+
