@@ -48,3 +48,10 @@ Expectations
 
 > 20 billion devices by 2020. Gartner
 
+What is it?
+
+- Unique objects connected to the Internet
+- Devices, not people
+- Bi-directional communication
+- Large, complex data flows
+- New types of insight
