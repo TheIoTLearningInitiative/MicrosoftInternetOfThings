@@ -149,7 +149,11 @@ Event Hubs? Example with 360 Gaming Console, Online Games!
 
 Integrates with big data solutions
 
+## Analysis
 
+- Azure HDInsight
+
+100% Apache Hadoop-based service in the Cloud
 
 # Microsoft IoT Platform: Architecture Overview
 
