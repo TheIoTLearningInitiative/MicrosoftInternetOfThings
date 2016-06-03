@@ -58,4 +58,5 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 
 #### The Gartner Hype Cycle
 
-![The Gartner Hype Cycle](https://a16zcdixon.files.wordpress.com/2015/01/screen-shot-2015-01-12-at-10-38-22-pm.png)
+![The Gartner Hype Cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png)
+
