@@ -56,3 +56,6 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 
 ![IoT in 2015](http://image.slidesharecdn.com/iotinmanufacturing-webevent-final-150511111155-lva1-app6891/95/webinar-transforming-manufacturing-with-iot-6-638.jpg?cb=1433153936)
 
+#### The Gartner Hype Cycle
+
+![The Gartner Hype Cycle](https://a16zcdixon.files.wordpress.com/2015/01/screen-shot-2015-01-12-at-10-38-22-pm.png)
