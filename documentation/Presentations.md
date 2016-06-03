@@ -157,8 +157,6 @@ Integrates with big data solutions
 
 - Process real-time data in Azure . "Data in Motion"
 
-
-
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
