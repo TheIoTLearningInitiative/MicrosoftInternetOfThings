@@ -45,3 +45,4 @@ What is it?
 - New types of insight
 
 Example! [The Internet of Cows: Azure-powered pedometers get dairies mooovin’](http://arstechnica.com/information-technology/2015/04/the-internet-of-cows-azure-powered-pedometers-get-dairies-mooovin/)
+
