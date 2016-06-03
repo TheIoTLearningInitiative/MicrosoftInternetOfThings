@@ -130,7 +130,7 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 ### What Do Architects Need to Know
 
-
+![Microsfot Azure IoT Services](MicrosoftAzureIoTServices.png)
 
 # Microsoft IoT Platform: Architecture Overview
 
