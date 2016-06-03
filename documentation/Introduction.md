@@ -36,5 +36,8 @@ Session Overview
 - Common pattern and practices
 - Quick real world examples
 
+Expectations
 
-
+- Level 200 Architecture Session
+- There will be no code
+- There will be no "flashing light" demos
