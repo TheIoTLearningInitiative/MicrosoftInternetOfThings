@@ -28,5 +28,6 @@
 
 ![Microsoft Internet Of Your Things](MicrosoftInternetOfYourThings.png)
 
+![](MicrosoftConnectedOperations.png)
 
 
