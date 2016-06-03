@@ -89,6 +89,7 @@ Basics of IoT Communication
 
 - Telemetry: Information flowing from a device to other systems for conveying status of device and environment
 - Inquiries: Requests from devices looking to gather required information or to initiate activities, I Am Ok!
+- Commands: Command from other systems to a device or a group of devices to perform specific activities
 
 # Microsoft IoT Platform: Architecture Overview
 
