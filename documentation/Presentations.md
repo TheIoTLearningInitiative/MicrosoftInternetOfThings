@@ -63,3 +63,10 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 
 ![The Gartner Hype Cycle Emerging Technologies](http://www.pewresearch.org/files/2014/08/FT_gartner-tech-hype-cycle-640px.jpg)
 
+#### POV: IoT is at an inflection point
+
+- Hardware is getting cheap
+- M2M solutions are mainstream
+- Connectivity is proliferating
+- Software is more advanced
+- Cloud cost, scale, flexibility
