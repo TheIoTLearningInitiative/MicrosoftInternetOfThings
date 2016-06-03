@@ -147,6 +147,8 @@ Event Hubs? Example with 360 Gaming Console, Online Games!
 
 - Fully Managed NoSQL document db service
 
+Integrates with big data solutions
+
 
 
 # Microsoft IoT Platform: Architecture Overview
