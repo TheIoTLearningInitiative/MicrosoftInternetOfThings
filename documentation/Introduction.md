@@ -1,5 +1,7 @@
 # Introduction
 
+> Totally different Microsoft!
+
 - [Microsoft IoT](https://blogs.microsoft.com/iot/)
 - [What is Internet of Things?](https://www.microsoft.com/en-us/server-cloud/internet-of-things/)
 - [Microsoft Windows Development Center](https://developer.microsoft.com/en-us/windows/iot)
