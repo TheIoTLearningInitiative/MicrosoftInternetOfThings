@@ -52,3 +52,4 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 
 > Leading Industry Examples: Utilities, Insurance, Agriculture, Factory, Automobiles, Transport, Consumer
 
+![IoT in 2010](http://image.slidesharecdn.com/windowsiotbarone-150621201619-lva1-app6891/95/microsoft-e-il-mondo-iot-6-638.jpg?cb=1434925322)
