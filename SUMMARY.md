@@ -4,5 +4,5 @@
 * [Introduction](documentation/Introduction.md)
 * [Microsoft Azure](MicrosoftAzure.md)
 * [Cortana](documentation/Cortana.md)
-* Bot Framework
+* Microsoft Bot Framework
 
