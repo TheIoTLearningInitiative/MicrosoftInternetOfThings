@@ -132,6 +132,12 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 ![Microsoft Azure IoT Services](MicrosoftAzureIoTServices.png)
 
+![](MicrosoftAzureIoTServicesTheOnes.png)
+
+#### Depth?
+
+
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
