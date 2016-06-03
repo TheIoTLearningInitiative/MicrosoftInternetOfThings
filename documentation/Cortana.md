@@ -1,3 +1,3 @@
 # Cortana
 
-http://gallery.cortanaintelligence.com/?r=legacy
+[Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
