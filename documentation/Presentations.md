@@ -106,6 +106,14 @@ How to solve those basic patterns
 - Publish-Subscribe
 - Command Routing
 
+IoT Challenges
+
+- Addressing
+- Scale
+- Connectivity
+- Data Volume
+- Device Size
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
