@@ -136,6 +136,10 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 #### Depth?
 
+## Event Hubs
+
+### Telemetry Ingestion Services
+
 
 
 # Microsoft IoT Platform: Architecture Overview
