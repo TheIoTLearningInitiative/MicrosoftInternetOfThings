@@ -92,6 +92,14 @@ Basics of IoT Communication
 - Commands: Command from other systems to a device or a group of devices to perform specific activities
 - Notifications: Information flowing from other systems to a device (group) for conveying status changes
 
+### IoT Solutions
+
+> A service-oriented architecture (SOA) is an architectural pattern in computer software design in which application components provide services to other components via a communications protocol, typically over a network. The principles of service-orientation are independent of any vendor, product or technology. [Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+
+How to solve those basic patterns
+
+- Endpoints
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
