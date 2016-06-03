@@ -72,9 +72,8 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 - Software is more advanced
 - Cloud cost, scale, flexibility
 
-
 [Microsoft CityNext: Helping Guide Dogs support people with sight loss](https://blogs.msdn.microsoft.com/ukgovernment/2014/01/15/microsoft-citynext-helping-guide-dogs-support-people-with-sight-loss/)
 
 # Microsoft IoT Platform: Architecture Overview
 
-https://www.youtube.com/watch?v=q6lYuUJ1mO4
+[Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
