@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+   * Presentations
 * [Microsoft Azure](documentation/MicrosoftAzure.md)
 * [Microsoft Cortana](documentation/MicrosoftCortana.md)
 * [Microsoft Bot Framework](documentation/MicrosoftBotFramework.md)
