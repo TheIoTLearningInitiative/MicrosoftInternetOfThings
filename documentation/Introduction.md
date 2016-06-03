@@ -1,5 +1,7 @@
 # Introduction
 
+> Collecting information from lots of devices is cool - but it is just __telematics__. Merging perspectives between devices, systems, and humans to build a better understanding of the world around us. But tying together __insight__ with __action__ - there lies the promise of IoT. Microsoft @ TechEd North America
+
 - [Microsoft IoT](https://blogs.microsoft.com/iot/)
 - [What is Internet of Things?](https://www.microsoft.com/en-us/server-cloud/internet-of-things/)
 - [Microsoft Windows Development Center](https://developer.microsoft.com/en-us/windows/iot)
