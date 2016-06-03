@@ -16,7 +16,6 @@
 - __Machine Learning__ Powerful cloud based predictive analytics tool to enable predictive maintenance
 - __Notification Hubs__ A scalable, push notification engine for quickly sending millions of messages
 
-
 # Alliances
 
 - [Microsoft Fujitsu](http://www.fujitsu.com/us/about/info-center/global-alliances/microsoft/)
