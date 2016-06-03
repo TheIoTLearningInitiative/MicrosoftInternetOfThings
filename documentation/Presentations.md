@@ -99,6 +99,10 @@ Basics of IoT Communication
 How to solve those basic patterns
 
 - Endpoints
+- Message Passing
+- Message Security
+- Publish-Subscribe
+- Command Routing
 
 # Microsoft IoT Platform: Architecture Overview
 
