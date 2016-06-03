@@ -70,3 +70,6 @@ Example 31% Cowwy ROI! [The Internet of Cows: Azure-powered pedometers get dairi
 - Connectivity is proliferating
 - Software is more advanced
 - Cloud cost, scale, flexibility
+
+
+# Microsoft IoT Platform: Architecture Overview
