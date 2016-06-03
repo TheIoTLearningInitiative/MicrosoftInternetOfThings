@@ -44,5 +44,3 @@ What is it?
 - Large, complex data flows
 - New types of insight
 
-
-
