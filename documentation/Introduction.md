@@ -1,7 +1,5 @@
 # Introduction
 
-> Collecting information from lots of devices is cool - but it is just __telematics__. Merging perspectives between devices, systems, and humans to build a better understanding of the world around us. But tying together __insight__ with __action__ - there lies the promise of IoT. Microsoft @ TechEd North America
-
 - [Microsoft IoT](https://blogs.microsoft.com/iot/)
 - [What is Internet of Things?](https://www.microsoft.com/en-us/server-cloud/internet-of-things/)
 - [Microsoft Windows Development Center](https://developer.microsoft.com/en-us/windows/iot)
@@ -18,4 +16,8 @@
 
 ## Presentations
 
-> This session will give a brief overview of what IoT is from the perspective of an Architect within Consulting Services. We will look at what kinds of projects we are getting involved in, what those projects look like in reality, the kinds of challenges you will face, the network you need to succeed, and the risks involved. This session will move beyond hypotheticals and introduce real world examples that will help you prepare for life as a delivery architect working with IoT. [Architecting the Internet of Things](https://www.youtube.com/watch?v=ZMHQu_X0Ijk)
+> This session will give a brief overview of what IoT is from the perspective of an Architect within Consulting Services. We will look at what kinds of projects we are getting involved in, what those projects look like in reality, the kinds of challenges you will face, the network you need to succeed, and the risks involved. This session will move beyond hypotheticals and introduce real world examples that will help you prepare for life as a delivery architect working with IoT. [Architecting the Internet of Things by Microsoft @ TechEd North America](https://www.youtube.com/watch?v=ZMHQu_X0Ijk)
+
+> Collecting information from lots of devices is cool - but it is just __telematics__. Merging perspectives between devices, systems, and humans to build a better understanding of the world around us. But tying together __insight__ with __action__ - there lies the promise of IoT. Microsoft @ TechEd North America
+
+
