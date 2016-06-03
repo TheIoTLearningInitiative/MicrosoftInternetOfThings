@@ -140,6 +140,8 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 - Telemetry Ingestion Services
 
+20 MB files? Wrong Architecture!
+
 
 
 # Microsoft IoT Platform: Architecture Overview
