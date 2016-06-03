@@ -64,4 +64,5 @@ What is it?
 
 # Alliances
 
-[Microsoft Fujitsu](http://www.fujitsu.com/us/about/info-center/global-alliances/microsoft/)
+- [Microsoft Fujitsu](http://www.fujitsu.com/us/about/info-center/global-alliances/microsoft/)
+- Microsoft Fujitsu Cows
