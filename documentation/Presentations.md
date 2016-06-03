@@ -87,6 +87,9 @@ Example Talk Design Thinking [Microsoft CityNext: Helping Guide Dogs support peo
 
 Basics of IoT Communication
 
+- Telemetry: Information flowing from a device to other systems for conveying status of device and environment
+- Inquiries: Requests from devices looking to gather required information or to initiate activities, I Am Ok!
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
