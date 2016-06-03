@@ -185,6 +185,15 @@ Integrates with big data solutions
 - Don't focus on the device
 - Avoid analysis paralysis. Get it done!
 
+## Summary
+
+- Architecture is the Center of IoT
+- IoT is Advanced Modern Architecture
+- IoT Projects are Complex - Teamwork is necessary
+- These projects are mission critical and difficult
+- We can't learn everything - but we need to breadth
+- Don't be afraid - get started and learn
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
