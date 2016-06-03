@@ -98,7 +98,7 @@ Basics of IoT Communication
 
 > SOA may introduce problems later on on IoT solutions
 
-How to solve those basic patterns
+#### How to solve those basic patterns
 
 - Endpoints
 - Message Passing
@@ -106,7 +106,7 @@ How to solve those basic patterns
 - Publish-Subscribe
 - Command Routing
 
-IoT Challenges, First Principles
+#### IoT Challenges, First Principles
 
 - Addressing
 - Scale
@@ -116,13 +116,13 @@ IoT Challenges, First Principles
 
 Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](http://blogs.microsoft.com/transform/2015/03/12/scania-leads-a-new-era-of-trucking-services-with-the-data-and-the-cloud/#sm.0000mrabe0vnsfn3t6n1ne7t3zc05)
 
-First Principles
+#### First Principles
 
 - Addressing, Pub/Sub
 - Scale, Cloud
-- Connectivity, 
-- Data Volume
-- Device Size
+- Connectivity, Queues
+- Data Volume, Cloud Storage
+- Device Size, 
 
 # Microsoft IoT Platform: Architecture Overview
 
