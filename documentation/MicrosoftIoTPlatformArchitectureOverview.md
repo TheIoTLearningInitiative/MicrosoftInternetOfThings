@@ -31,3 +31,5 @@
 ![Connected Operations](MicrosoftConnectedOperations.png)
 
 
+## Microsoft's Approach to IoT
+
