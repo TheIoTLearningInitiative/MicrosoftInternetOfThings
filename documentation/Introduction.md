@@ -44,3 +44,4 @@ Expectations
 
 ### IoT: The Internet of Things
 
+> The network of physical objects that contain embedded technology to communicate  and interact with their external states or the external environment. Gartner Definition
