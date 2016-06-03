@@ -138,7 +138,7 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 ## Event Hubs
 
-### Telemetry Ingestion Services
+- Telemetry Ingestion Services
 
 
 
