@@ -114,6 +114,8 @@ IoT Challenges
 - Data Volume
 - Device Size
 
+Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](http://blogs.microsoft.com/transform/2015/03/12/scania-leads-a-new-era-of-trucking-services-with-the-data-and-the-cloud/#sm.0000mrabe0vnsfn3t6n1ne7t3zc05)
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
