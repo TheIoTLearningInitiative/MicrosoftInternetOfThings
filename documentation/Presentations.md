@@ -153,7 +153,11 @@ Integrates with big data solutions
 
 - 100% Apache Hadoop-based service in the Cloud
 
-## Analysis: Axure Stream Analytics
+## Analysis: Azure Stream Analytics
+
+- Process real-time data in Azure . "Data in Motion"
+
+## Analysis: Azure Machine Learning
 
 - Process real-time data in Azure . "Data in Motion"
 
