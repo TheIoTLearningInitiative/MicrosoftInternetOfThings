@@ -18,3 +18,8 @@
 
 > Stop just running your business. Start making it thrive. start realizing the potential of the Internet of your Things.
 
+## The duopoly that continues to drive this change
+
+> [Wikipedia Moore's Law]()
+
+> [Wikipedia Metcalf's Law]()
