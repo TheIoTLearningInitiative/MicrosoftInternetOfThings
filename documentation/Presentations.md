@@ -106,7 +106,7 @@ How to solve those basic patterns
 - Publish-Subscribe
 - Command Routing
 
-IoT Challenges
+IoT Challenges, First Principles
 
 - Addressing
 - Scale
