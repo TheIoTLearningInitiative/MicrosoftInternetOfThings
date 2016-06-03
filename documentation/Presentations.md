@@ -122,7 +122,7 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 - Scale, Cloud
 - Connectivity, Queues
 - Data Volume, Cloud Storage
-- Device Size, 
+- Device Size, AMQP/MQTT
 
 # Microsoft IoT Platform: Architecture Overview
 
