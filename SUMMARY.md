@@ -5,5 +5,5 @@
 * [Microsoft Azure](MicrosoftAzure.md)
 * [Cortana](documentation/Cortana.md)
 * [Microsoft Bot Framework](MicrosoftBotFramework.md)
-* Cognitive Services
+* [Cognitive Services](documentation/CognitiveServices.md)
 
