@@ -46,4 +46,5 @@ Expectations
 
 > The network of physical objects that contain embedded technology to communicate  and interact with their external states or the external environment. Gartner Definition
 
-> 20 billion devices by 2020
+> 20 billion devices by 2020. Gartner
+
