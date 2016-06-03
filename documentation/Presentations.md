@@ -85,7 +85,7 @@ Example Talk Design Thinking [Microsoft CityNext: Helping Guide Dogs support peo
 
 ### Information Exchange Patterns
 
-
+Basics of IoT Communication
 
 # Microsoft IoT Platform: Architecture Overview
 
