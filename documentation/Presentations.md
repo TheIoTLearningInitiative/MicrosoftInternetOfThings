@@ -71,6 +71,8 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 - Cloud cost, scale, flexibility
 
 
+## An Architect's Perspective
+
 
 
 # Microsoft IoT Platform: Architecture Overview
