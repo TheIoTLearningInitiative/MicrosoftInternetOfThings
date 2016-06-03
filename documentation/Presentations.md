@@ -136,28 +136,28 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 #### Depth?
 
-## Data Transport: Event Hubs (Service Bus)
+### Data Transport: Event Hubs (Service Bus)
 
 > Telemetry Ingestion Services
 
 20 MB files? Wrong Architecture!
 Event Hubs? Example with 360 Gaming Console, Online Games!
 
-## Storage: DocumentDB
+### Storage: DocumentDB
 
 > Fully Managed NoSQL document db service
 
 Integrates with big data solutions
 
-## Analysis: Azure HDInsight
+### Analysis: Azure HDInsight
 
 > 100% Apache Hadoop-based service in the Cloud
 
-## Analysis: Azure Stream Analytics
+### Analysis: Azure Stream Analytics
 
 > Process real-time data in Azure . "Data in Motion"
 
-## Analysis: Azure Machine Learning
+### Analysis: Azure Machine Learning
 
 > Cloud bsaed predictive analytics engine
 
@@ -166,13 +166,17 @@ Integrates with big data solutions
 - Transform and Analyze: Transform raw materials into "finished goods" 
 - Publish: Deliver
 
-## Presentation and Action: Axure Notification Hubs
+### Presentation and Action: Axure Notification Hubs
 
 > Scalable mobile push notification engine
 
-## Presentation and Action: Microsoft PowerBI
+### Presentation and Action: Microsoft PowerBI
 
 > Live, single pane of glass dashboard solution for visualizations and KPIs
+
+
+## IoT Device & Cloud Patterns
+
 
 
 # Microsoft IoT Platform: Architecture Overview
