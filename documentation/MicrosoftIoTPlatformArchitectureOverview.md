@@ -33,3 +33,10 @@
 
 ## Microsoft's Approach to IoT
 
+- You have devices on the network edge
+  - Basic Sensors
+  - Intelligent Devices
+  - Plant Floor Things
+  - Back Office Things
+  - Supply Chain Things 
+
