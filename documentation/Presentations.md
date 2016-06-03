@@ -75,6 +75,9 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 Example Talk Design Thinking [Microsoft CityNext: Helping Guide Dogs support people with sight loss](https://blogs.msdn.microsoft.com/ukgovernment/2014/01/15/microsoft-citynext-helping-guide-dogs-support-people-with-sight-loss/)
 
 
+### General Technical Requirements for IoT
+
+
 
 # Microsoft IoT Platform: Architecture Overview
 
