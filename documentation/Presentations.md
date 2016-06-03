@@ -136,7 +136,7 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 #### Depth?
 
-## Data Transport: Event Hubs
+## Data Transport: Event Hubs (Service Bus)
 
 - Telemetry Ingestion Services
 
@@ -149,11 +149,13 @@ Event Hubs? Example with 360 Gaming Console, Online Games!
 
 Integrates with big data solutions
 
-## Analysis
+## Analysis: Azure HDInsight
 
-- Azure HDInsight
+- 100% Apache Hadoop-based service in the Cloud
 
-100% Apache Hadoop-based service in the Cloud
+## Analysis: Axure Stream Analytics
+
+- Process real-time data in Azure . "Data Motion"
 
 # Microsoft IoT Platform: Architecture Overview
 
