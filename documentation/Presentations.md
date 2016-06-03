@@ -62,6 +62,8 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 
 ![The Gartner Hype Cycle Emerging Technologies](http://www.pewresearch.org/files/2014/08/FT_gartner-tech-hype-cycle-640px.jpg)
 
+## An Architect's Perspective
+
 ### POV: IoT is at an inflection point
 
 - Hardware is getting cheap
@@ -69,9 +71,6 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 - Connectivity is proliferating
 - Software is more advanced
 - Cloud cost, scale, flexibility
-
-
-## An Architect's Perspective
 
 
 
