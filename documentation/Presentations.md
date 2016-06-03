@@ -136,12 +136,16 @@ Example [Scania Leads a New Era of Trucking Services with Data and the Cloud](ht
 
 #### Depth?
 
-## Event Hubs
+## Data Transport: Event Hubs
 
 - Telemetry Ingestion Services
 
 20 MB files? Wrong Architecture!
 Event Hubs? Example with 360 Gaming Console, Online Games!
+
+## Storage: DocumentDB
+
+- Fully Managed NoSQL document db service
 
 
 
