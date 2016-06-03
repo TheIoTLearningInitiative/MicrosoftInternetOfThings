@@ -42,4 +42,4 @@ Expectations
 - There will be no code
 - There will be no "flashing light" demos
 
-### 
+### IoT: The Internet of Things
