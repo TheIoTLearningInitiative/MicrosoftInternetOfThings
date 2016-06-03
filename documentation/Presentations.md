@@ -155,7 +155,9 @@ Integrates with big data solutions
 
 ## Analysis: Axure Stream Analytics
 
-- Process real-time data in Azure . "Data Motion"
+- Process real-time data in Azure . "Data in Motion"
+
+
 
 # Microsoft IoT Platform: Architecture Overview
 
