@@ -77,7 +77,11 @@ Example Talk Design Thinking [Microsoft CityNext: Helping Guide Dogs support peo
 
 ### General Technical Requirements for IoT
 
-
+- Many Devices
+- Large Scale
+- Vague Security Requirements
+- Volumes of Data
+- End to End Integration
 
 # Microsoft IoT Platform: Architecture Overview
 
