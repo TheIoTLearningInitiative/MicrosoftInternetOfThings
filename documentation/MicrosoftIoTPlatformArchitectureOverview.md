@@ -47,4 +47,6 @@
   - External Storage 
 - That you understand, apply rules, models and more...
   - Event Hub (Service Bus)
-  - Command and Control  
+  - Command and Control
+
+ 
