@@ -177,7 +177,13 @@ Integrates with big data solutions
 
 ## IoT Device & Cloud Patterns
 
+## Risks of IoT
 
+- Old ways of Thinking can be dangerous
+- Understand the business model
+- Be aware of new patterns: eventual consistency, etc.
+- Don't focus on the device
+- Avoid analysis paralysis. Get it done!
 
 # Microsoft IoT Platform: Architecture Overview
 
