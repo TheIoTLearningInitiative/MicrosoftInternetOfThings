@@ -29,13 +29,13 @@ Expectations
 - There will be no code
 - There will be no "flashing light" demos
 
-### IoT: The Internet of Things
+## IoT: The Internet of Things
 
 > The network of physical objects that contain embedded technology to communicate  and interact with their external states or the external environment. Gartner Definition
 
 > 20 billion devices by 2020. Gartner
 
-#### What is it?
+### What is it?
 
 - Unique objects connected to the Internet
 - Devices, not people
@@ -45,7 +45,7 @@ Expectations
 
 Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedometers get dairies mooovin’](http://arstechnica.com/information-technology/2015/04/the-internet-of-cows-azure-powered-pedometers-get-dairies-mooovin/)
 
-#### Why is it important?
+### Why is it important?
 
 > Worlwide market for IoT solutions to reach $7.2 trillion in 2010 (IDC). Economic value-add is forecast to be $1.9 trillion across sectors in 2020 (Gartner)
 
@@ -55,20 +55,22 @@ Example 31% Cowwy ROI Beef Industry! [The Internet of Cows: Azure-powered pedome
 
 ![IoT Landscape in 2015](http://image.slidesharecdn.com/iotinmanufacturing-webevent-final-150511111155-lva1-app6891/95/webinar-transforming-manufacturing-with-iot-6-638.jpg?cb=1433153936)
 
-#### The Gartner Hype Cycle
+### The Gartner Hype Cycle
 
 ![The Gartner Hype Cycle](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gartner_Hype_Cycle.svg/320px-Gartner_Hype_Cycle.svg.png)
 
 
 ![The Gartner Hype Cycle Emerging Technologies](http://www.pewresearch.org/files/2014/08/FT_gartner-tech-hype-cycle-640px.jpg)
 
-#### POV: IoT is at an inflection point
+### POV: IoT is at an inflection point
 
 - Hardware is getting cheap
 - M2M solutions are mainstream
 - Connectivity is proliferating
 - Software is more advanced
 - Cloud cost, scale, flexibility
+
+
 
 
 # Microsoft IoT Platform: Architecture Overview
