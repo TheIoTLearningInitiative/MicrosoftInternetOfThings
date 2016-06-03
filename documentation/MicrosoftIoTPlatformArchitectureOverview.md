@@ -26,3 +26,4 @@
 
 ## Microsoft Internet Of Your Things
 
+![Microsoft Internet Of Your Things](MicrosoftInternetOfYourThings.png)
