@@ -20,6 +20,6 @@
 
 ## The duopoly that continues to drive this change
 
-> Moore's law (/mɔərz.ˈlɔː/) is the observation that the number of transistors in a dense integrated circuit doubles approximately every two years. [Wikipedia Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
+> Moore's law is the observation that the number of transistors in a dense integrated circuit doubles approximately every two years. [Wikipedia Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)
 
 > [Wikipedia Metcalf's Law]()
