@@ -161,6 +161,12 @@ Integrates with big data solutions
 
 - Cloud bsaed predictive analytics engine
 
+- Data sources: Raw Materials
+- Ingest: Acquire Raw Materials
+- Transform and Analyze: Transform raw materials into "finished goods" 
+- Publish: Deliver
+- 
+
 # Microsoft IoT Platform: Architecture Overview
 
 [Microsoft IoT Platform: Architecture Overview](https://www.youtube.com/watch?v=q6lYuUJ1mO4)
