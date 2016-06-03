@@ -39,4 +39,9 @@
   - Plant Floor Things
   - Back Office Things
   - Supply Chain Things 
-
+- That provide you data
+  - Table Storage
+  - Blob Storage
+  - SQL Database
+  - DocumentDB
+  - External Storage 
