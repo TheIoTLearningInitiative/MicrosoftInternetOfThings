@@ -159,7 +159,7 @@ Integrates with big data solutions
 
 ## Analysis: Azure Machine Learning
 
-- Process real-time data in Azure . "Data in Motion"
+- Cloud bsaed predictive analytics engine
 
 # Microsoft IoT Platform: Architecture Overview
 
