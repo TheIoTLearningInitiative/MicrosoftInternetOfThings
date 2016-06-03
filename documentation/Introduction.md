@@ -55,3 +55,8 @@ What is it?
 - Bi-directional communication
 - Large, complex data flows
 - New types of insight
+
+
+# Alliances
+
+[Microsoft Fujitsu](http://www.fujitsu.com/us/about/info-center/global-alliances/microsoft/)
