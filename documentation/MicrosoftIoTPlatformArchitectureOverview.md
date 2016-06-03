@@ -8,3 +8,13 @@
 
 > 20 billion devices by 2020. Gartner
 
+## Microsoft's View
+
+> The Internet of Things starts with __Your Things__
+
+- Build on infrastructure you already have
+- Add more devices to the ones you already own
+- Get more from the data that already exists
+
+> Stop just running your business. Start making it thrive. start realizing the potential of the Internet of your Things.
+
