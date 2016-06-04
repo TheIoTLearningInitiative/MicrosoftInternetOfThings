@@ -13,5 +13,6 @@
 > What is Cortana Intelligence? As a fully managed big data and advanced analytics suite, Cortana Intelligence is a powerful solution to transform your data into intelligent action. [What is Cortana Intelligence?](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/what-is-cortana-intelligence.aspx)
 
 > Industry solutions and insights. Deliver a unique, personalized experience to customers. Forecast demand to optimize availability. Act quickly on emerging trends, streamline processes, and avoid costly downtime. With Cortana Intelligence Suite, you can capture and analyze your untapped data for operational analytics that meet the demands of your business and rapidly realize new value—from retail to hospitality, financial services to healthcare, and a world of industries beyond. [Industry solutions and insights](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/industry-solutions.aspx)
-- [Engage with a partner](http://cortanaintelligencepartners.azurewebsites.net/)
+
+>  [Engage with a partner](http://cortanaintelligencepartners.azurewebsites.net/)
 - [Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
