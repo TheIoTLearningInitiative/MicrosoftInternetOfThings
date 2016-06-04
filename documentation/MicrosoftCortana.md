@@ -16,4 +16,4 @@
 
 > Select a country/region to view available Cortana Intelligence Partners. [Engage with a partner](http://cortanaintelligencepartners.azurewebsites.net/)
 
->  [Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
+> This Gallery is now the Cortana Intelligence Gallery. [Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
