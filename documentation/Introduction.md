@@ -21,3 +21,6 @@
 - __Machine Learning__ Powerful cloud based predictive analytics tool to enable predictive maintenance
 - __Notification Hubs__ A scalable, push notification engine for quickly sending millions of messages
 
+# Adquisitions
+
+- [After Cisco and Sony, Microsoft Acquires IoT Startup Solair](http://internetofthingswiki.com/microsoft-acquires-iot-startup-solair/870/)
