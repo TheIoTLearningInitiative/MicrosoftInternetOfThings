@@ -6,6 +6,6 @@
 
 > Tap into the Internet of your things with Azure IoT Suite. Azure IoT Suite brings the Internet of your things to life. Connect your devices, analyze previously-untapped data, and integrate business systems—and transform your company when you uncover new business models and revenue streams. [Azure IoT Suite](https://www.microsoft.com/en/server-cloud/internet-of-things/azure-iot-suite.aspx)
 
-> IoT solutions transform the oil and gas industry [IoT solutions transform the oil and gas industry](https://www.microsoft.com/en/server-cloud/internet-of-things/industry-solutions.aspx)
+> IoT solutions transform the oil and gas industry. Giving cities a lift with IoT solutions. Enterprise IoT creates a connected commute. Driving automation with IoT solutions.  [IoT solutions transform the oil and gas industry](https://www.microsoft.com/en/server-cloud/internet-of-things/industry-solutions.aspx)
 
 > Rely on expert IoT partners. Get ready to unleash true business value with the Internet of Things (IoT). Whether you’re building your own solution with certified devices, or looking for a complete IoT solution, get connected with a trusted partner that can help tailor the Azure IoT Suite to your industry-specific needs. [Partners](https://www.microsoft.com/en/server-cloud/internet-of-things/partners.aspx)
