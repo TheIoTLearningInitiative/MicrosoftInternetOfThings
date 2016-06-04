@@ -4,4 +4,4 @@
 
 
 > Azure IoT Suite. Capture and analyze untapped data to improve business results
-[](https://azure.microsoft.com/en-us/solutions/iot-suite/)
+[Azure IoT Suite](https://azure.microsoft.com/en-us/solutions/iot-suite/)
