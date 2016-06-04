@@ -8,4 +8,4 @@
 
 > IoT solutions transform the oil and gas industry [IoT solutions transform the oil and gas industry](https://www.microsoft.com/en/server-cloud/internet-of-things/industry-solutions.aspx)
 
-> [Partners](https://www.microsoft.com/en/server-cloud/internet-of-things/partners.aspx)
+> Rely on expert IoT partners. Get ready to unleash true business value with the Internet of Things (IoT). Whether you’re building your own solution with certified devices, or looking for a complete IoT solution, get connected with a trusted partner that can help tailor the Azure IoT Suite to your industry-specific needs. [Partners](https://www.microsoft.com/en/server-cloud/internet-of-things/partners.aspx)
