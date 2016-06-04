@@ -4,9 +4,9 @@
 
 # Cortana Intelligence Suite
 
-> A fully managed big data and advanced analytics suite to transform your data into intelligent action. [Cortana Intelligence Suite](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/)
+> A fully managed big data and advanced analytics suite to transform your data into intelligent action. Analytics that enables action, Fast and flexible, Secure and scalable, Intelligence. [Cortana Intelligence Suite](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/)
 
-> Analytics that enables action, Fast and flexible, Secure and scalable, Intelligence
+## Areas
 
 > Why Cortana Intelligence? Transform data into action with one simple monthly subscription. [Why Cortana Intelligence?](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/why-cortana-intelligence.aspx)
 
