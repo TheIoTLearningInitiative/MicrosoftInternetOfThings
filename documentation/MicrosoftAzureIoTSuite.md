@@ -4,4 +4,4 @@
 
 > Azure IoT Suite. Capture and analyze untapped data to improve business results. [Azure IoT Suite](https://azure.microsoft.com/en-us/solutions/iot-suite/)
 
-> [](https://www.microsoft.com/en/server-cloud/internet-of-things/azure-iot-suite.aspx)
+> Tap into the Internet of your things with Azure IoT Suite. Azure IoT Suite brings the Internet of your things to life. Connect your devices, analyze previously-untapped data, and integrate business systems—and transform your company when you uncover new business models and revenue streams. [Azure IoT Suite](https://www.microsoft.com/en/server-cloud/internet-of-things/azure-iot-suite.aspx)
