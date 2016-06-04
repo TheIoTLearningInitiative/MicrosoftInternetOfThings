@@ -8,4 +8,4 @@
 
 > IoT solutions transform the oil and gas industry [IoT solutions transform the oil and gas industry](https://www.microsoft.com/en/server-cloud/internet-of-things/industry-solutions.aspx)
 
-> [](https://www.microsoft.com/en/server-cloud/internet-of-things/partners.aspx)
+> [Partners](https://www.microsoft.com/en/server-cloud/internet-of-things/partners.aspx)
