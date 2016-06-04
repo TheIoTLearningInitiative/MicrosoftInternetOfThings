@@ -6,4 +6,6 @@
 
 > A fully managed big data and advanced analytics suite to transform your data into intelligent action. [Cortana Intelligence Suite](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/)
 
+> Analytics that enables action, Fast and flexible, Secure and scalable, Intelligence
+
 - [Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
