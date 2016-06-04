@@ -10,5 +10,5 @@
 
 - [Why Cortana Intelligence?](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/why-cortana-intelligence.aspx)
 - [What is Cortana Intelligence?](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/what-is-cortana-intelligence.aspx)
-- 
+- [Industry solutions and insights](https://www.microsoft.com/en-us/server-cloud/cortana-intelligence-suite/industry-solutions.aspx)
 - [Cortana Intelligence Gallery](http://gallery.cortanaintelligence.com/?r=legacy)
