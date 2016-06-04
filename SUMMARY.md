@@ -6,7 +6,6 @@
        * [Architecting the Internet of Things](documentation/ArchitectingTheInternetOfThings.md)
        * [Microsoft IoT Platform: Architecture Overview](documentation/MicrosoftIoTPlatformArchitectureOverview.md)
 * [Microsoft Azure](documentation/MicrosoftAzure.md)
-   * [IoT Suite](documentation/IotSuite.md)
    * [Data Factory](documentation/DataFactory.md)
    * [Machine Learning](documentation/MachineLearning.md)
    * [Event Hubs](documentation/EventHubs.md)
