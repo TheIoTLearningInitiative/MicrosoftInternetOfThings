@@ -7,7 +7,7 @@
 - [Microsoft Windows Development Center](https://developer.microsoft.com/en-us/windows/iot)
 - [Demystifying Microsoft's Internet of Things Strategy](http://www.forbes.com/sites/janakirammsv/2015/10/20/demystifying-microsofts-internet-of-things-strategy/#5a1017313bd7)
 
-# Internet of Things
+# Internet of Things Components
 
 - __IoT Suite__ Capture and analyze untapped data to improve business results
 - __IoT Hub__ Connect, monitor, and control millions of IoT assets
