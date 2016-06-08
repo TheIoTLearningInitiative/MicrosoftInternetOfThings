@@ -24,3 +24,7 @@
 # Adquisitions
 
 - [After Cisco and Sony, Microsoft Acquires IoT Startup Solair](http://internetofthingswiki.com/microsoft-acquires-iot-startup-solair/870/)
+
+# Intel Collaboration
+
+- [](https://software.intel.com/en-us/iot/microsoft-azure?cid=em-elq-9456&utm_source=elq&utm_medium=email&utm_campaign=9456&elq_cid=1218513&elqTrackId=147798e3523e4455b04ae4140edcdbf6&elq=4349add4045b45f0b8078b586349bf93&elqaid=9456&elqat=1&elqCampaignId=7270)
