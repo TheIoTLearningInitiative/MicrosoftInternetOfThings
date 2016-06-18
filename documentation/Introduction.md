@@ -18,7 +18,9 @@
 
 # Microsoft Virtual Academy
 
-- Free Microsoft Training Delivered by Experts [Microsoft Virtual Academy](https://mva.microsoft.com/)
+> Free Microsoft Training Delivered by Experts [Microsoft Virtual Academy](https://mva.microsoft.com/)
+
+- [Getting Started with the Internet of Things (IoT)](https://mva.microsoft.com/en-US/training-courses/getting-started-with-the-internet-of-things-iot-16170)
 
 # Alliances
 
