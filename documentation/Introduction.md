@@ -18,7 +18,7 @@
 
 # Microsoft Virtual Academy
 
-- [](https://mva.microsoft.com/)
+- Free Microsoft Training Delivered by Experts [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 # Alliances
 
